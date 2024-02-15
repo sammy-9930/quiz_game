@@ -43,8 +43,17 @@ You got it right!
 Your current score : 5/10
 
  You've completed the quiz.
-Your final score: 5/10 
-```
+Your final score: 5/10
 
 Process finished with exit code 0
+```
+### BREAKING THE PROBLEM STATEMENT 
+1. Come up with the question model class with typically contains a question and answer.
+2. Work on converting the raw data into class objects.
+3. Display the question in the form of a class object and take answer from the user.
+4. Run the function until all the questions are displayed to the user and user input is taken.
+5. Validate if the answer entered by user is right/wrong.
+6. If answer is wrong, display the right answer and total score.
+7. At the end of the quiz, display the final result.
+
 
